@@ -14,8 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a results-driven graduate student in Computer Science and Applied Mathematics at the University of Illinois at Urbana-Champaign. 
+I am a former graduate researcher at the University of Illinois at Urbana-Champaign. My research interests lie at the intersection of machine learning and natural language processing, focusing on dynamics across multi-modalities.
 
-My experience includes theories and applications in Machine Learning, Data Science, Information Retrieval, Natural Language Processing, and Data Mining. Currently, I am conducting research on graph neural network in large graphs.  
-
-I received my Master of Computer Science at University of Illinois at Urbana-Champaign in 2021. After that, I worked in search query understanding at Verizon Media/Yahoo! as a software engineer intern. 
+I received my Master's degrees in Computer Science and Applied Mathematics from University of Illinois at Urbana-Champaign in 2021, 2022. I also worked as a software engineer intern in search query understanding at Verizon Media/Yahoo! in 2021. 
