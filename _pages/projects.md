@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: page  
 title: projects
 permalink: /projects/
-description: projects done at work and university of illinois at urbana-champaign.
+# description: projects done at work and university of illinois at urbana-champaign.
 nav: true
-display_categories: 
+# display_categories: [uiuc, work]
 horizontal: false
 ---
 <div class="projects">
