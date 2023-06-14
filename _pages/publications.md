@@ -6,7 +6,6 @@ description:
 years: [2023, 2022, 2020, 2018]
 nav: true
 ---
-
 <div class="publications">
 
 {% for y in page.years %}
